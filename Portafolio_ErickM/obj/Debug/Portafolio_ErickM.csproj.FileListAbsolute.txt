@@ -1,0 +1,108 @@
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/csc.exe
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/csc.exe.config
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/csc.rsp
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/csi.exe
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/csi.rsp
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CodeAnalysis.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CSharp.Core.targets
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.VisualBasic.Core.targets
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.AppContext.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.Collections.Immutable.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.Diagnostics.StackTrace.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.IO.FileSystem.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.IO.FileSystem.Primitives.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.Reflection.Metadata.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/vbc.exe
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/vbc.exe.config
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/vbc.rsp
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/VBCSCompiler.exe
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/VBCSCompiler.exe.config
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/Portafolio_ErickM.dll.config
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/Portafolio_ErickM.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/Portafolio_ErickM.pdb
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/obj/Debug/Portafolio_ErickM.csprojResolveAssemblyReference.cache
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/obj/Debug/Portafolio_ErickM.dll
+c:/users/pacademicos/documents/visual studio 2017/Projects/Portafolio_ErickM/Portafolio_ErickM/obj/Debug/Portafolio_ErickM.pdb
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/csc.exe
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/csc.exe.config
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/csc.rsp
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/csi.exe
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/csi.rsp
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.AppContext.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/vbc.exe
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/vbc.exe.config
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/vbc.rsp
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/VBCSCompiler.exe
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/Portafolio_ErickM.dll.config
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/Portafolio_ErickM.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/Portafolio_ErickM.pdb
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/obj/Debug/Portafolio_ErickM.csprojResolveAssemblyReference.cache
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/obj/Debug/Portafolio_ErickM.dll
+C:/Users/pacademicos/Downloads/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/obj/Debug/Portafolio_ErickM.pdb
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/csc.exe
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/csc.exe.config
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/csc.rsp
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/csi.exe
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/csi.rsp
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CodeAnalysis.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.CSharp.Core.targets
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/Microsoft.VisualBasic.Core.targets
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.AppContext.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.Collections.Immutable.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.Diagnostics.StackTrace.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.IO.FileSystem.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.IO.FileSystem.Primitives.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/System.Reflection.Metadata.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/vbc.exe
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/vbc.exe.config
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/vbc.rsp
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/VBCSCompiler.exe
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/roslyn/VBCSCompiler.exe.config
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/Portafolio_ErickM.dll.config
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/Portafolio_ErickM.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/Portafolio_ErickM.pdb
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/obj/Debug/Portafolio_ErickM.csproj.AssemblyReference.cache
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/obj/Debug/Portafolio_ErickM.csproj.CoreCompileInputs.cache
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/obj/Debug/Portafolio_ErickM.csproj.CopyComplete
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/obj/Debug/Portafolio_ErickM.dll
+//Mac/Home/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/obj/Debug/Portafolio_ErickM.pdb
+/Users/erick/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/obj/Debug/Portafolio_ErickM.csproj.AssemblyReference.cache
+/Users/erick/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/obj/Debug/Portafolio_ErickM.csproj.CoreCompileInputs.cache
+/Users/erick/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/obj/Debug/Portafolio_ErickM.dll
+/Users/erick/Documents/Proyectos VSC/Portafolio_ErickM/Portafolio_ErickM/Portafolio_ErickM/obj/Debug/Portafolio_ErickM.pdb
